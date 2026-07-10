@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
+| [3794-reverse-string-prefix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
+| [3794-reverse-string-prefix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
 | ------- |
