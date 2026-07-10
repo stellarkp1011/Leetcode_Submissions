@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
