@@ -70,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
+| [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
