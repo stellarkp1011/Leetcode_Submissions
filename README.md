@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0044-wildcard-matching) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
