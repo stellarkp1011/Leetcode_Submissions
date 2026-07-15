@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
