@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
 | ------- |
