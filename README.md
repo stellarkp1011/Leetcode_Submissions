@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -195,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
