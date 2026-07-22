@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 ## Simulation
 |  |
 | ------- |
