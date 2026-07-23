@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Simulation
 |  |
 | ------- |
