@@ -131,21 +131,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 ## Linked List
 |  |
