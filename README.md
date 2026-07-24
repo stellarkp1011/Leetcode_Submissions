@@ -142,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
