@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
