@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0213-house-robber-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## String
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
@@ -268,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
