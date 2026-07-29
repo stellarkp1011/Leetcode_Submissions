@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
