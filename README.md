@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -190,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
