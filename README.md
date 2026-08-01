@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -310,8 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
