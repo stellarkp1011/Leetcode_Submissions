@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3794-reverse-string-prefix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -308,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
