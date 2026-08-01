@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
