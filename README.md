@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1901-find-a-peak-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
+| [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
+| [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
+| [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
+| [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0547-number-of-provinces) |
+| [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
