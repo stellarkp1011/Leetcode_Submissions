@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1901-find-a-peak-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1905-count-sub-islands) |
+| [3731-find-missing-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
