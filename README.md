@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
@@ -342,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
