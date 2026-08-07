@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0724-find-pivot-index) |
 | [0870-advantage-shuffle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
