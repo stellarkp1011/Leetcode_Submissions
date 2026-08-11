@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
