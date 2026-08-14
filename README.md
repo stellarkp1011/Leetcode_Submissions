@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
