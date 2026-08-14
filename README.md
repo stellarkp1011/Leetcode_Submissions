@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Topological Sort
