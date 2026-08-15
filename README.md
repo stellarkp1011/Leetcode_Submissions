@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -299,10 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Database
 |  |
 | ------- |
@@ -394,4 +399,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
