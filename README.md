@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Database
 |  |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
@@ -441,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
