@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0870-advantage-shuffle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0870-advantage-shuffle) |
 | [1048-longest-string-chain](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 ## Recursion
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
