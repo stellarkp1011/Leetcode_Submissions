@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [3794-reverse-string-prefix](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
 | [0870-advantage-shuffle](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0870-advantage-shuffle) |
+| [1903-largest-odd-number-in-string](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
