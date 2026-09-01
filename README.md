@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0583-delete-operation-for-two-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
