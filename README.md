@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0583-delete-operation-for-two-strings) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0460-lfu-cache) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/stellarkp1011/Leetcode_Submissions/tree/master/0621-task-scheduler) |
